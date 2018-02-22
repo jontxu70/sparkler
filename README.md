@@ -2,13 +2,12 @@
 
 # [Sparkler](http://irds.usc.edu/sparkler/)
 
-<a href="https://uscdatascience.slack.com/messages/sparkler/"><img height="24px" src="https://cdn.worldvectorlogo.com/logos/slack.svg"></a>
+
 [![Build Status](https://travis-ci.org/USCDataScience/sparkler.svg?branch=master)](https://travis-ci.org/USCDataScience/sparkler)
 
 A web crawler is a bot program that fetches resources from the web for the sake of building applications like search engines, knowledge bases, etc. Sparkler (contraction of Spark-Crawler) is a new web crawler that makes use of recent advancements in distributed computing and information retrieval domains by conglomerating various Apache projects like Spark, Kafka, Lucene/Solr, Tika, and pf4j. Sparkler is an extensible, highly scalable, and high-performance web crawler that is an evolution of Apache Nutch and runs on Apache Spark Cluster.
 
-### NOTE:
-~~Sparkler is being proposed to [Apache Incubator](http://incubator.apache.org/). Review the proposal document and provide your suggestions here [here](https://docs.google.com/document/d/1SU0YESlY5JViA9ezCSPr_SSF9e9VuvyFRICupGlfUKs/edit?usp=sharing)~~ Will be done later, eventually!
+
 
 ### Notable features of Sparkler:
 
