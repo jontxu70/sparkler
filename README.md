@@ -43,7 +43,4 @@ The dashboard should look like the one in the below:
  - [To the source code](http://irds.usc.edu/sparkler/dev/development-environment-setup.html#contributing-source)
  - [To the documentation](http://irds.usc.edu/sparkler/dev/contributing-to-docs.html)
 
-### Contact Us
 
-Any questions or suggestions are welcomed in our mailing list [irds-l@mymaillists.usc.edu](mailto:irds-l@mymaillists.usc.edu)
-Alternatively, you may use the slack channel for getting help http://irds.usc.edu/sparkler/#slack
